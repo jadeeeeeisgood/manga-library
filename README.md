@@ -48,7 +48,7 @@ python main.py
 
 2. Đăng nhập với tài khoản mặc định:
 - Username: admin
-- Password: admin123
+- Password: admin1
 
 3. Hoặc đăng ký tài khoản mới từ giao diện đăng nhập
 
