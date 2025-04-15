@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin1",
+    "email": "admin@mangalibrary.com",
+    "join_date": "2024-03-31T10:00:00",
+    "favorites": [
+      5,
+      3
+    ],
+    "is_admin": true
+  },
+  {
+    "id": 2,
+    "username": "truong1",
+    "password": "123456",
+    "email": "tb@gmail.com",
+    "join_date": "2025-04-15T20:18:18.582798",
+    "favorites": [
+      7
+    ]
+  }
+]
